@@ -2,7 +2,7 @@
 
 Install Theme:
 ```sh
-bash <(curl https://raw.githubusercontent.com/Kalzzoffc/IceMinecraftTheme/main/install.sh)
+bash <(curl https://raw.githubusercontent.com/KalzzProtocol/Kalzz-Thema/main/install.sh)
 ```
 
-Eror? Report To : t.me/Kalzzoffc
+Eror? Report To : t.me/ClestialKalzz
